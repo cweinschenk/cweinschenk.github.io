@@ -16,10 +16,11 @@ Below are a couple examples where FDS has been used to assist the fire service t
 
 
 ### PG County Fire/EMS:
-{% youtube 2Jh4H4I-xLw %}
+<iframe width="720" height="315" src="https://www.youtube.com/embed/2Jh4H4I-xLw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Chicago Fire Department:
-{% youtube nY3JO_Kf9Qk %}
+<iframe width="720" height="315" src="https://www.youtube.com/embed/nY3JO_Kf9Qk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## For More information
 Homepage: <a href="https://pages.nist.gov/fds-smv/index.html" target="_blank">FDS-SMV</a>  
