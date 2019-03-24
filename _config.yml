@@ -14,7 +14,7 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: Fire - Data - Travel
+  header_text: Fire & Data
   header_feature_image: assets/img/travel/charm_city.jpg
 
   # Icons
