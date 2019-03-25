@@ -16,6 +16,8 @@ theme_settings:
   # Header and footer text
   header_text: Fire & Data
   header_feature_image: assets/img/travel/charm_city.jpg
+  footer_text: >
+    
 
   # Icons
   rss:  # Make sure you created a feed.xml with feed.xml layout
