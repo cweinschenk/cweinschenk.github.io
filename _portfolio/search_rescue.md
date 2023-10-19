@@ -19,5 +19,6 @@ UL Fire Safety Research Institute (FSRI) conducted 21 full-scale, live-fire expe
 <iframe width="960" height="400" src="https://www.youtube.com/embed/FflxmqW6Hjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-### Visit the Site:
-<a href="https://fsri.org/research/study-fire-service-residential-home-size-and-search-rescue-operations.html" target="_blank"> Size-Up and Search & Rescue </a>
+## For More Information:
+Webpage: <a href="https://fsri.org/research/study-fire-service-residential-home-size-and-search-rescue-operations.html" target="_blank"> Size-Up and Search & Rescue </a>  
+Training: <a href="https://training.fsri.org/course/029-search-rescue-tactics" target="_blank"> Interactive Training </a>
