@@ -12,6 +12,7 @@ The NERIS platform is being developed in collaboration with the U.S. Department 
 
 
 ## For More Information:
-<iframe src="https://my-deployment-bfa226.kb.us-east-2.aws.elastic-cloud.com/app/dashboards#/view/2b8c069a-4e2f-4485-aa62-9eebd4711e17?embed=true&_g=(filters:!((query:(match:(base.department_neris_id:'FD24027214')))))&show-time-filter=true&hide-filter-bar=true" height="800" width="100%" allowfullscreen></iframe>
+
+<iframe src="https://my-deployment-bfa226.kb.us-east-2.aws.elastic-cloud.com/app/dashboards#/view/6af338ed-c889-4cb6-92b5-04d4a6088ad1?embed=true&_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A60000)%2Ctime%3A(from%3Anow-1y%2Cto%3Anow))&show-time-filter=true&hide-filter-bar=true" height="600" width="800"></iframe>
 
 
